@@ -18,3 +18,6 @@
 ### 29 de Septiembre de 2026
 * Terminé el único trabajo que puedo en clase porque sigo peleándome con el JDK - [Práctica de seguridad y accesibilidad en el control de versiones](https://github.com/WishMoment/PortfolioDespliegue/tree/main/EjerciciosUD1/Seguridad)
 El archivo de [SECURITY](https://github.com/WishMoment/PortfolioDespliegue/blob/main/SECURITY.md) y [GITIGNORE](https://github.com/WishMoment/PortfolioDespliegue/blob/main/permisos.gitignore) los veo tan importantes que se quedan al inicio del repositorio
+## 20 de Octubre
+Presenté una exposición
+Y subí un [cuestionario](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD2/EnlacePresentaci%C3%B3n)
