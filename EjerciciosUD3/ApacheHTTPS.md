@@ -89,7 +89,10 @@ Reiniciar/recargar Apache y validar la correcta implementación mediante navegad
 
 Lo hacemos con curl porque el navegador puede dar errores
 
-![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD3/311_12.png)
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD3/311_13.png)
 
 Si pone que se ha movido permanentemente es que ha funcionado.
 
+Con el navegador:
+
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD3/311_14.png)
