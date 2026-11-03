@@ -96,3 +96,7 @@ Si pone que se ha movido permanentemente es que ha funcionado.
 Con el navegador:
 
 ![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD3/311_14.png)
+
+### CONCLUSIÓN
+
+En conclusión, está muy bien para poder ver sitios propios, pero puede llegar a ser un dolor de cabeza como se configure mal
