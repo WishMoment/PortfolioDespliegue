@@ -45,10 +45,21 @@ Tomcat permite instalar aplicaciones web mediante archivos .war o directorios qu
 Catalina, Coyote y Jasper se encuentran en la carpeta de lib mientras que los manager tienen sus propias carpetas.
 ## Instalar tomcat
 Buscamos con el apt search tomcat qué versiones de tomcat hay.
+
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_2.png)
+
 Como a mi me sale la versión 10 instalamos la versión 10.
 La instalamos con sudo apt install tomcat 10
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_3.png)
+
+Por último revisamos que esté encendido
+
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_4.png)
+
 ### Archivos server.xml, web.xml, tomcat-users.xml y context.xml
 Los archivos se encuentran en etc/tomcat10
+
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_5.png)
 
 ### Función elementos
 
@@ -94,3 +105,7 @@ Se pueden configurar:
 - Recursos externos, como conexiones a bases de datos mediante JNDI.
 - Recarga automática de aplicaciones.
 - Recursos y archivos que deben supervisarse para detectar cambios.
+
+## Mapa de dependencias
+
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_6.png)
