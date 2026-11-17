@@ -1,21 +1,32 @@
+Apache ya está instalado por lo que no se instala
 
-sudo a2enmod proxy
-sudo a2enmod proxy_http
+1. Instalamos los proxy
+   Los comandos son los siguientes:
+   * sudo a2enmod proxy
+   * sudo a2enmod proxy_http
 
 ![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_11.png)
 
-sudo nano /etc/apache2/sites-available/000-default.conf
-sudo nano /etc/apache2/sites-available/default.ssl.conf
+2. Hay que editar los siguientes archivos
+   
+   Los comandos son:
+  * sudo nano /etc/apache2/sites-available/000-default.conf
+  * sudo nano /etc/apache2/sites-available/default.ssl.conf
+Y hay que poner estas 3 líneas:
 
-![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_13.png)
-
-ProxyPreserveHost On
-ProxyPass /hola/ http://localhost:8080/hola/
-ProxyPassReverse /hola/ http://localhost:8080/hola/
-
+>ProxyPreserveHost On
+>
+>ProxyPass /hola/ http://localhost:8080/hola/
+>
+>ProxyPassReverse /hola/ http://localhost:8080/hola/
 ![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_14.png)
 
 ![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_16.png)
+
+3. Reiniciamos el Apache
+   >sudo systemctl restart apache2
+
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_13.png)
 
 ![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_15.png)
 
