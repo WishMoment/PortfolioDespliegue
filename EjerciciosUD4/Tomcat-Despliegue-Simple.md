@@ -1,7 +1,7 @@
-!()[https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_7.png]
-!()[https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_8.png]
-!()[https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_9.png]
-!()[https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_10.png]
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_7.png)
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_8.png)
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_9.png)
+![](https://github.com/WishMoment/PortfolioDespliegue/blob/main/EjerciciosUD4/4_10.png)
 
 Paso 3: ¿Qué hace Tomcat internamente en Ubuntu de forma automática?
 En cuanto el servicio detecta el archivo .war en esa ruta, realiza lo siguiente en milisegundos:
